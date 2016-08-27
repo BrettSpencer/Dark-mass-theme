@@ -12,7 +12,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
-			<a href="http://darkmassdesign.com/">Dark Mass Design</a> | All Rights Reserved | &copy;<?=date('Y'); ?>
+			<a href="http://darkmassdesign.com/">Dark Mass Design</a>  |  All Rights Reserved  |  &copy;<?=date('Y'); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
